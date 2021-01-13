@@ -6,6 +6,7 @@ int main()
 {
 	cout << "Git is a distributed version control system." << endl;
 	cout << "Git is free software distributed under the GPL." << endl;
-	coud << "hello." <<endl;
+	cout << "hello." <<endl;
+	cout << "new line.i love birdy." << endl;
 	return 0;
 }
